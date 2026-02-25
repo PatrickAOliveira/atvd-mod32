@@ -39,12 +39,14 @@ const Formulario = () => {
         type="text"
         value={nome}
         onChange={(e) => setNome(e.target.value)}
+        required
       />
       <Campo
         placeholder="Email"
         type="email"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
+        required
       />
       <Campo
         ref={inputMask}
@@ -52,6 +54,7 @@ const Formulario = () => {
         onChange={(e) => setTelefone(e.target.value)}
         type="tel"
         placeholder="Telefone"
+        required
       />
       <Botao onClick={novoContato}>Salvar</Botao>
     </FormContainer>
