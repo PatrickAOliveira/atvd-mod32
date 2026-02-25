@@ -23,7 +23,7 @@ Uma aplicação web desenvolvida com React, TypeScript, Redux para gerenciar uma
 - [Styled-Components](https://styled-components.com/)
 - [Vite](https://vitejs.dev/)
 - ESLint + Prettier
-- [React Input Mas](https://www.npmjs.com/package/react-input-mask)
+- [React Input Mask](https://www.npmjs.com/package/react-input-mask)
 
 ---
 
@@ -61,7 +61,7 @@ Para executar o projeto basta seguir os passos abaixo
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/contactlist.git
+git clone https://github.com/seu-usuario/atvd-mod32.git
 ```
 
 2. **Instale as dependencias**
